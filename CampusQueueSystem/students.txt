@@ -1,0 +1,21 @@
+# 姓名 信誉分 到达时间 紧急度 目标资源(1:座位, 2:洗衣机)
+stud_A 85 800 1 1
+stud_B 92 800 3 1
+stud_C 65 800 2 2
+stud_D 78 800 2 1
+stud_E 99 801 3 1
+stud_F 45 801 1 1
+stud_G 88 801 2 1
+stud_H 60 802 1 2
+stud_I 91 802 3 1
+stud_J 72 803 2 2
+stud_K 55 803 1 1
+stud_L 83 803 3 2
+stud_M 96 804 2 1
+stud_N 40 804 1 1
+stud_O 79 805 1 1
+stud_P 87 805 3 1
+stud_Q 68 806 2 1
+stud_R 95 806 3 1
+stud_S 50 807 1 2
+stud_T 74 808 2 1
